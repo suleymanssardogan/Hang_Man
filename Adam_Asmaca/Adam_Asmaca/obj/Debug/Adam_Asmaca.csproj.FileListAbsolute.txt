@@ -1,0 +1,17 @@
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe.config
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.pdb
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.AssemblyReference.cache
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.GenerateResource.cache
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.exe
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.pdb
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.Form2.resources
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.CopyComplete
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe.manifest
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.application
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.exe.manifest
+C:\Users\Süleyman Sardoğan\source\repos\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.application
